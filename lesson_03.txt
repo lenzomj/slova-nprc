@@ -1,0 +1,46 @@
+# Nouns
+англичáнка, англича́нки (f) [an-glee-chán-ka] : Englishwoman : 03
+бóрщ, борща́ (m) [borshsh] : beetroot soup : 03
+брат, бра́та (m) [brat] : brother : 03
+Вáня, Ва́ни (m) [va-nya] : Vania (familiar form of Ivan) : 03
+винó, вина́ (n) [vee-nó] : wine : 03
+вóдка, во́дки (f) [vót-ka] : vodka : 03
+Волóдя, Воло́ди (m) [va-ló-dya] : Volodia (familiar form of Vladimir) : 03
+газéта, газе́ты (f) [ga-zyé-ta] : newspaper : 03
+дверь, две́ри (f) [dvyerʸ] : door : 03
+день, дня (m) [dyenʸ] : day : 03
+дóм, до́му (m) [dom] : house : 03
+дя́дя, дя́ди (m) [dya-dya] : uncle : 03
+мать, матери́ (f) [matʸ] : mother : 03
+меню́ (n, indec.) [mye-nyoó] : menu : 03
+Москва́, Москвы́ (f) [mas-kvá] : Moscow : 03
+окнó, окна́ (n) [ak-nó] : window : 03
+пáпа, па́пы (m) [pá-pa] : father, dad : 03
+рубль, рубля́ (m) [rooblʸ] : rouble : 03
+Сиби́рь, Сиби́ри (f) [see-be'erʸ] : Siberia : 03
+сметáна, смета́ны (f) [smye-tá-na] : sour cream : 03
+такси́ (n, indec.) [tak-se'e] taxi : 03
+упражне́ние, упражне́ния (n) [oo-prazh-nyé-nee-ye] exercise : 03
+у́тро, у́тра (n) [óo-tra] morning : 03
+чай, ча́я (m) [chay] : tea : 03
+шокола́д, шокола́да (m) [sha-ka-lat] : chocolate : 03
+
+# Question Words
+где [gdye] : where : 03
+что [shto] : what : 03
+
+# Pronounѕ
+óн (m) [on] : he : 03
+онá (f) [a-ná] : she : 03
+онó (n) [a-nó] : it (referring to neuter nouns) : 03
+э́то (n) [é-ta] this/that/it : 03
+
+# Other Words
+a [a] : and/but (indicating a slight contrast) : 03
+вóт [vot] : here/there (when pointing) : 03
+да [da] : yes : 03
+дóбрый день [dó-bri dyenʸ] : good day : 03
+до свидáния [da svee-dá-nee-ya] : goodbye : 03
+здрáвствуйте [zdrást-vooy-tye] : hello : 03
+нет [nyet] : no : 03
+пожáлуйста [pa-zhál-sta] : please/don't mention it/here you are : 03
